@@ -13,5 +13,6 @@ Dann lasst ihr euch diese jeweils mit ```System.out.println()``` in der Console 
 ### ℹ️ Resourcen:
 Hier noch ein paar nützliche 📃Artikel, 🖊️Threads und 🎥Videos
 
-- [🎥 Java Variablen ](https://javabeginners.de/Grundlagen/Variablen.php)
-- [📃 Java Hello World](https://www.programiz.com/java-programming/hello-world)
+
+- [📃 Java Variablen ](https://javabeginners.de/Grundlagen/Variablen.php)
+- [🎥 Java Tutorial for Beginners ](https://www.youtube.com/watch?v=eIrMbAQSU34&t=1076s&ab_channel=ProgrammingwithMosh)
